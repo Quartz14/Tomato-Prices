@@ -6,5 +6,6 @@ Templates can be found in the templates branch
 
 The monthly tomato_ml is modified 
 
+NOTE: The app runs on the previous model, not the updated model. 
 
 
