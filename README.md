@@ -19,4 +19,6 @@ monthly_tomato_app file is a flask app that uses the pickled model to predict th
 The Templates branch contains 2 html files:
     1) monthly_tomato_home - Home page that takes in user inputs Month, Market Area, Average Tonnes per month for that market
     2) tomato_result - Displays the predicted values
+    
+Requirements contains the python libraries required to run the pogram
 
